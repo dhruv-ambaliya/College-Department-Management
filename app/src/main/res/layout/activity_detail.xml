@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:id="@+id/detailTitle"
+        android:text="Title"
+        android:layout_marginTop="14dp"
+        android:textSize="24sp"
+
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/lavender_border"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"/>
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:id="@+id/detailImage"
+        android:padding="8dp"
+        android:layout_gravity="center"
+        android:src="@drawable/baseline_cloud_download_24"
+        android:scaleType="fitXY"
+        />
+
+
+<!--    <Button-->
+<!--        android:id="@+id/downLoad"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Download" />-->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:padding="20dp"
+        android:text="Description"
+        android:layout_gravity="center"
+        android:id="@+id/detailDesc"
+        android:background="@drawable/lavender_border"
+        android:textSize="18sp"/>
+
+
+</LinearLayout>

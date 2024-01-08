@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798177558806",
+    "project_id": "gec508",
+    "storage_bucket": "gec508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798177558806:android:4faee1a1ddefba9badd037",
+        "android_client_info": {
+          "package_name": "com.ce.gec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGlV3AgmwKzKFcSuqcHO9S1mgfphVi48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
