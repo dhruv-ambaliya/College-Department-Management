@@ -4,7 +4,7 @@ An Android app for managing student and department notices, uploads, and authent
 
 ## Overview
 
-**College Department Management** is an Android application designed to streamline communication and information sharing between students and college departments. The app allows departments to upload notices (as images or PDFs) and students to view or download them. The app supports user authentication for both students and department staff, leveraging Firebase for authentication and real-time data storage.
+**College Department Management** is an Android application designed to streamline communication and information sharing between students and college departments. The app allows departments to upload notices (as images or PDFs) and students to view, search and download them. The app supports user authentication for both students and department staff, leveraging Firebase for authentication and real-time data storage.
 
 ---
 
